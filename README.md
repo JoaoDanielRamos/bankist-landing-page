@@ -1,2 +1,3 @@
 # bankist-lading-page
-# bankist-landing-page
+
+A DOM manipulation project that covers different DOM handling events and features.
